@@ -14,10 +14,6 @@
     "shortid": "^2.2.14",
     "xmldom": "^0.1.27"
   },
-  "peerDependencies": {
-    "react": "^16.6.1",
-    "react-native": "^0.57.5"
-  },
   "keywords": [
     "react",
     "react-native",
